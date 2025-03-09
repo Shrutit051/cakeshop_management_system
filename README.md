@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Shreya Gujarathi (UCE2023463)**
 - **Siddhi Vaidya (UCE2023464)**
 - **Shruti Thakur (UCE2023469)**
-- this is our Mini Project for our course Data Structures(Course code - 23PCCE302) of semester 3, second year, computer engineering! 
+- This is our Mini Project for our course Data Structures Laboratory (Course code - 23PCCE302L) of semester 3, second year, computer engineering! 
 
 ---
 
